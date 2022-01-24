@@ -1,0 +1,30 @@
+.wetherBg{
+  background: url("https://cdn.dribbble.com/users/3639405/screenshots/8761499/media/9badcccb740ab6cfceda0e5d25bf87a4.jpg?compress=1&resize=400x300");
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.heading{
+  color:rgb(255, 255, 255);
+  font-weight: 700;
+}
+.wetherResultBox{
+  margin: auto;
+  width: 500px;
+  height: 300px;
+}
+.weathorIcon{
+  margin-top: 2rem;
+  width: 100px;
+  height: 100px;
+}
+.weathorCity{
+  font-size: 35px;
+}
+.weathorTemp{
+  font-size:55px;
+  font-weight: 700;
+}
+
